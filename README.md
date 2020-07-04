@@ -16,4 +16,4 @@ The U.S. Postal Service has been using machine learning and scanning technologie
 
 The numbers                 |  Result                  |
 :-------------------------:|:-------------------------:|
-![](numbers.png)            |  ![](numbers3.png)       |
+![](imges/numbers.png)    |  ![](imges/numbers3.png)   |
